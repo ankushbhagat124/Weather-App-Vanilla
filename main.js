@@ -19,8 +19,8 @@ let weather = {
         document.querySelector(".icon").src = "https://openweathermap.org/img/wn/"+ icon +"@2x.png";
         document.querySelector(".description").innerText = description[0].toUpperCase() + description.substring(1, description.length);
         document.querySelector(".temp").innerText = temp + " °C";
-        document.querySelector(".temp-min").innerText = "Min Temperatur: " + temp_min + " °C";
-        document.querySelector(".temp-max").innerText = "Max Temperature: " + temp_max + " °C";
+        document.querySelector(".temp-min").innerText = "Min Temperatur : " + temp_min + " °C";
+        document.querySelector(".temp-max").innerText = "Max Temperature : " + temp_max + " °C";
         document.querySelector(".feels").innerText = "Feels Like: " + feels_like + " °C";
         
         document.querySelector(".humidity").innerText = "Humidity : " + humidity + "%";
