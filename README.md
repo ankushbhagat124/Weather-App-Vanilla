@@ -14,7 +14,7 @@ For more details regarding the Unsplash URL, visit: https://awik.io/generate-ran
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https:https://github.com/ankushbhagat124/Weather-App-Vanilla.git
 ```
 
 Go to the project directory
@@ -32,6 +32,6 @@ Start the server
 
 ## Deployment
 
-Deployed Site Link: 
+Deployed Site Link: https://ab-weather-app.netlify.app/
 
-# Weather-App-Vanilla
+
